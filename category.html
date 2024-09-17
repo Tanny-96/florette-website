@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Categories</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            animation: fadeIn 3s ease-in-out; 
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            animation: typing 2s steps(30, end);
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        @keyframes typing {
+            from {
+                width: 0;
+            }
+            to {
+                width: 100%;
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        .categories {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+
+        .category-button {
+            background-color: #009688;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .category-button:hover {
+            background-color: #93b4ec;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CATEGORIES:</h1>
+        <div class="categories">
+            <button class="category-button"><a href="flower p.html">FLOWERING PLANTS</a> </button>
+            <button class="category-button"><a href=""> Herbal Plants</a> </button>
+            <button class="category-button"><a href=""> Vegetables</a></button>
+        </div>
+    </div>
+</body>
+</html>
+

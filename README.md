@@ -1,8 +1,8 @@
-# **Florette** 🌸
+# **🌸 Florette**
 
 **Welcome to Florette!** This is an interactive garden design tool and my first-ever website, created entirely by me during a 2023 hackathon. Florette helps users design their gardens by selecting plants based on their intended location, either home or office. Discover plants, receive detailed care instructions, and more!
 
-## **🌟 Features**
+## **✨ Features**
 
 - **Location-Based Plant Selection**: Choose to design a garden for either home or office.
 - **Plant Categories**: Browse and select from various plant categories like flowering plants.
@@ -23,10 +23,6 @@
 3. **Explore Plant Categories**: Browse through categories like flowering plants.
 4. **Select and Download**: Pick a plant to view details and download a PDF report with all the essential care instructions.
 
-## **🤝 Contributing**
-
-Currently, this project is not planned for further development, so contributions are not being accepted at this time.
-
 ## **📝 License**
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -39,4 +35,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **📧 Contact**
 
 For any questions or feedback, feel free to reach out to me at [tanishqjaitapurkar@gmail.com](mailto:tanishqjaitapurkar@gmail.com).
+
+---
+
+<div align="center">
+  <p style="color: green; font-size: 18px;">Thank you for visiting Florette!</p>
+</div>
 
